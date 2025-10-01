@@ -1,11 +1,33 @@
-# Sample Snack app
+# 🛒 Tela de Login - EcoMercado  
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+[![React Native](https://img.shields.io/badge/React_Native-61DBE6?style=for-the-badge&logo=react)](https://reactnative.dev/)  
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Um aplicativo de **login moderno** desenvolvido em **React Native**, com **tema claro/escuro** e design inspirado em um **mercado sustentável** 🌱.  
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+---
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 🚀 Funcionalidades  
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- **Tela de login** com e-mail e senha  
+- **Validação** dos campos de entrada  
+- Estilo com cores que remetem à **natureza e sustentabilidade**  
+- Estrutura pronta para integração com autenticação real (Firebase, API etc.)  
+
+---
+
+## 📂 Estrutura do Projeto  
+
+- **Header** → Exibe título/branding do app  
+- **Formulário** → Inputs de e-mail e senha  
+- **Botão de Login** → Dispara a validação e futura autenticação  
+- **Estilização** → Baseada em verde claro (claro) e verde escuro (escuro)  
+
+---
+
+## ▶️ Como executar  
+
+É necessário ter o **Node.js**, **React Native CLI** e o **Android Studio** ou **Expo Go** para rodar o projeto.  
+
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/JoaoLucasQrz/TelaLoginEcomercado.git
