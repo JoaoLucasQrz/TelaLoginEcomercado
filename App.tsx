@@ -74,7 +74,6 @@ export default function Login({ onLoginSuccess, authenticate = defaultAuthentica
     }
   };
 
-  // 🔥 ESTILOS MODERNOS
   const containerStyle: React.CSSProperties = {
     minHeight: "100vh",
     display: "flex",
